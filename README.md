@@ -17,6 +17,7 @@
      <img align="center" alt="Gclayton-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gclayton-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Gclayton-VS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Gclayton-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
     <img align="center" alt="Gclayton-W10" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg">
   <img align="right" alt="Gclayton-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/75399046/149636387-acf81359-507c-47c2-bd7f-6bb6516c0049.png">
 </div>
