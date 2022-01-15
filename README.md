@@ -2,9 +2,8 @@
 
 
 
-- 🔭 Atualmente migrando para a carreira de desenvolvimento
-- 🌱 Estudante de web desenvolvimento na Resilia Educação
-- 😄 Pronouns: Ele/Dele
+- Estudante de Desenvolvimento Front-End na Resilia Educação 💛🖤
+- Graduado em Analise e desenvolvimento de sistemas 🎓
 
 <div align="center">
   <a href="https://github.com/Gclayton0207">
