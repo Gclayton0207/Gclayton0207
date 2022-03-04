@@ -4,6 +4,7 @@
 
 - Estudante de Desenvolvimento Front-End na Resilia Educação 💛🖤
 - Graduado em Analise e desenvolvimento de sistemas 🎓
+- Acesse meu portfolio clicando <a href="https://gclayton0207.github.io/Portfolio/" target="_blank">aqui</a>
 
 <div align="center">
   <a href="https://github.com/Gclayton0207">
