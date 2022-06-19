@@ -2,7 +2,7 @@
 
 
 
-- Estudante de Desenvolvimento Front-End na Resilia Educação 💛🖤
+- Formado como desenvolvedor web full stack na Resilia Educação 💛🖤
 - Graduado em Analise e desenvolvimento de sistemas 🎓
 - Acesse meu portfolio clicando <a href="https://gclayton0207.github.io/Portfolio/" target="_blank">aqui</a>
 
