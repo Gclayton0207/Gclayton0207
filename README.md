@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Giovanni Clayton
 
-
-
 - Formado como desenvolvedor web full stack na Resilia Educação 💛🖤
 - Graduado em Analise e desenvolvimento de sistemas 🎓
 - Acesse meu portfolio clicando <a href="https://gclayton0207.github.io/Portfolio/" target="_blank">aqui</a>
@@ -14,8 +12,8 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Gclayton-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gclayton-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gclayton-Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg">
      <img align="center" alt="Gclayton-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+         <img align="center" alt="Gclayton-angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Gclayton-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Gclayton-VS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
     <img align="center" alt="Gclayton-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg">
@@ -30,4 +28,3 @@
   <a href="https://www.linkedin.com/in/giovanni-clayton/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/Gclayton0207/Gclayton0207/blob/output/github-contribution-grid-snake.svg)
- 
